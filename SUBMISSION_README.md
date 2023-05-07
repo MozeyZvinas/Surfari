@@ -32,10 +32,10 @@
 
 | Event Attribute| Description |
 | --- | --- |
-| Project Team Name | xxxxxxxx |
-| Project Name | xxxxxxxx |
-| Challenge | xxxxxxxx |
-| Event Track | xxxxxxxx |
+| Project Team Name | Surfari |
+| Project Name | Mozey ChatBot |
+| Challenge | AXA's HAck the code Challenge |
+| Event Track |  |
 
 ## Use Case Abstract
 <!--- Template Instructions  
